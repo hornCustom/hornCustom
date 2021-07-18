@@ -1,7 +1,6 @@
+![:name](https://count.getloli.com/get/@:hornCustom)
 <table align="center">
   <tr>
-![:name](https://count.getloli.com/get/@:hornCustom)
-
 <h1 align="center">Hi 👋, I'm 游游</h1>
 
 
