@@ -1,3 +1,4 @@
+<table align="center">
 ![:name](https://count.getloli.com/get/@:hornCustom)
 
 <h1 align="center">Hi 👋, I'm 游游</h1>
