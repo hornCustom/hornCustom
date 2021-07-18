@@ -1,7 +1,7 @@
 ![:name](https://count.getloli.com/get/@:hornCustom)
 
 <h1 align="center">Hi 👋, I'm 游游</h1>
-<h3 align="center">A passionate frontend developer from Huangshi </h3>
+
 
 - 📝 I regularly write articles on [http://www.youjiasheng.top/](http://www.youjiasheng.top/)
 
