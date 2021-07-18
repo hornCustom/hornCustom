@@ -1,6 +1,6 @@
 ![:name](https://count.getloli.com/get/@:hornCustom)
 <h1 align="center">嗨👋，我是游游</h1>
-<h3 align="center">来自中国的热情前端开发者</h3>
+<h3 align="center">来自中国的java开发者</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=horncustom&label=Profile%20views&color=0e75b6&style=flat" alt="horncustom" /> </p>
 
